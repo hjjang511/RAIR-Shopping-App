@@ -1,10 +1,5 @@
 # RAIR Shopping App
 
-## Group Name: RAIR
-
-## Team Members:
-- [List of team members]
-
 ## Introduction
 The RAIR Shopping App is a one-stop destination for consumers and business stakeholders for their shopping and business needs. Inspired by the ever-evolving landscape of retail, the application provides a seamless and intuitive shopping experience for customers, offering a diverse range of products through an operational database. Recognizing the importance of informed decision-making, we integrated a powerful business insights section tailored for stakeholders, empowering them with valuable data to make strategic business decisions leveraging an analytical database.
 
