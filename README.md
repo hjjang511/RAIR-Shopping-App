@@ -16,7 +16,7 @@ The application design consists of two main databases – Operational and Analyt
 - **Analytical Database (OLAP)**: Supports data analysis for the Admin portal without impacting operational performance.
 
 ## Technologies and Libraries Used
-- **Programming Language**: Python
+- **Programming Language**: Python, SQL
 - **Database**: MySQL
 - **GUI Development**: PyQt Designer
 - **Data Analysis and Visualization**: Pandas, Seaborn, Matplotlib, SciPy, Statsmodels
